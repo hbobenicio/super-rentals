@@ -1,7 +1,17 @@
-# Super-rentalss
+# Super-rentals
 
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
+
+## Dev Notes
+
+Comandos executados:
+
+* `ember new super-rentals`
+* `ember generate acceptance-test list-rentals`
+* `ember generate route about`
+* `ember generate route contact`
+* `ember generate route index`
 
 ## Prerequisites
 
