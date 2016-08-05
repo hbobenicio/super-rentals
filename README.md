@@ -12,6 +12,7 @@ Comandos executados:
 * `ember generate route about`
 * `ember generate route contact`
 * `ember generate route index`
+* `ember generate template application`
 
 ## Prerequisites
 
