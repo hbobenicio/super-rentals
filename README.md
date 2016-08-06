@@ -13,6 +13,8 @@ Comandos executados:
 * `ember generate route contact`
 * `ember generate route index`
 * `ember generate template application`
+* `ember install ember-cli-tutorial-style`
+* `ember install ember-cli-mirage`
 
 ## Prerequisites
 
