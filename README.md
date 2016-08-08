@@ -18,6 +18,7 @@ Comandos executados:
 * `ember generate model rental`
 * `ember generate component rental-listing`
 * `ember generate helper rental-property-type`
+* `ember generate component list-filter`
 
 ## Prerequisites
 
