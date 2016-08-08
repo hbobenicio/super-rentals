@@ -17,6 +17,7 @@ Comandos executados:
 * `ember install ember-cli-mirage`
 * `ember generate model rental`
 * `ember generate component rental-listing`
+* `ember generate helper rental-property-type`
 
 ## Prerequisites
 
